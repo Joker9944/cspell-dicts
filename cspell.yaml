@@ -1,0 +1,51 @@
+---
+$schema: https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json
+version: '0.2'
+caseSensitive: false
+dictionaryDefinitions:
+  - name: hyprland
+    path: ./dictionaries/hyprland.txt
+    addWords: true
+  - name: linux
+    path: ./dictionaries/linux.txt
+    addWords: true
+  - name: nix
+    path: ./dictionaries/nix.txt
+    addWords: true
+  - name: nixpkgs
+    path: ./dictionaries/nixpkgs.txt
+    addWords: true
+  - name: shell
+    path: ./dictionaries/shell.txt
+    addWords: true
+  - name: user
+    path: ./dictionaries/user.txt
+    addWords: true
+dictionaries:
+  - user
+languageSettings:
+  - languageId: conf
+    locale: '*'
+    dictionaries:
+      - hyprland
+  - languageId: nix
+    locale: '*'
+    dictionaries:
+      - hyprland
+      - linux
+      - nix
+      - nixpkgs
+      - shell
+  - languageId: shellscript
+    locale: '*'
+    dictionaries:
+      - linux
+      - shell
+  - languageId: markdown
+    locale: '*'
+    dictionaries:
+      - hyprland
+      - linux
+      - nix
+      - nixpkgs
+      - shell
