@@ -1,6 +1,12 @@
 attrset
 attrsets
+dontUnpack
+fetchgit
+fetchurl
+fetchzip
+foldl
 foldr
+gvariant
 imap
 ints
 mktplcRef
@@ -9,11 +15,5 @@ nixpkgs
 pkgs
 pname
 serde
-gvariant
 stdenv
-fetchurl
-foldl
-fetchzip
 sublist
-dontUnpack
-fetchgit
