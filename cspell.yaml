@@ -21,6 +21,9 @@ dictionaryDefinitions:
   - name: user
     path: ./dictionaries/user.txt
     addWords: true
+ignorePaths:
+  - dictionaries/*.txt
+  - cspell.yaml
 dictionaries:
   - user
 languageSettings:
