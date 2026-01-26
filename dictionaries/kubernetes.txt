@@ -1,0 +1,9 @@
+crds
+daemonset
+FOWNER
+kubernetescrd
+PGID
+PUID
+SETGID
+SETUID
+websecure

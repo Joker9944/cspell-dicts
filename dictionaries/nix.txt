@@ -14,6 +14,7 @@ nixos
 nixpkgs
 pkgs
 pname
+pyproject
 serde
 stdenv
 sublist
