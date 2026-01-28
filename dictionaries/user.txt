@@ -72,6 +72,7 @@ servarr
 siderolabs
 sonarr
 sourcehut
+steamapps
 steamuser
 substituters
 teamspeak
