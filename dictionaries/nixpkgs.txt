@@ -87,6 +87,7 @@ rofi
 setuptools
 shellcheck
 shfmt
+skopeo
 statix
 steamcmd
 tailscale

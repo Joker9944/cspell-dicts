@@ -17,6 +17,7 @@ magick
 mbsync
 mediainfo
 mimeopen
+nixpkgs
 nvtop
 pg_isready
 pgadmin
@@ -31,9 +32,11 @@ pkill
 playerctl
 poweroff
 psql
+readarray
 renice
 restic
 sbctl
+skopeo
 socat
 steamcmd
 svstat
