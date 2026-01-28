@@ -53,6 +53,7 @@ kmail
 konsole
 lato
 libadwaita
+libgcc
 libgtop
 libnotify
 librewolf
