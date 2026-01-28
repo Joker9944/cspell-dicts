@@ -12,6 +12,7 @@ hyprctl
 journalctl
 kanidm
 kanidmd
+LDFLAGS
 magick
 mbsync
 mediainfo
@@ -34,6 +35,7 @@ renice
 restic
 sbctl
 socat
+steamcmd
 svstat
 talosctl
 wineboot

@@ -1,6 +1,7 @@
 attrset
 attrsets
 dontUnpack
+enableFakechroot
 fetchgit
 fetchurl
 fetchzip

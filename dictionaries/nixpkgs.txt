@@ -86,6 +86,7 @@ setuptools
 shellcheck
 shfmt
 statix
+steamcmd
 tailscale
 temurin-bin
 temurin-jre-bin
