@@ -78,6 +78,7 @@ prismlauncher
 procmail
 procps
 protontricks
+qadwaitadecorations
 qtwebengine
 r2modman
 remarshal

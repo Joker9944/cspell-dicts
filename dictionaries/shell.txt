@@ -33,6 +33,7 @@ pkill
 playerctl
 poweroff
 psql
+QT_QPA_PLATFORMTHEME
 readarray
 renice
 restic
