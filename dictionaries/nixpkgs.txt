@@ -105,6 +105,7 @@ udiskie
 udisks
 vesktop
 waybar
+wayvnc
 webstorm
 winetricks
 wofi
