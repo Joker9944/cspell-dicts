@@ -85,6 +85,7 @@ remarshal
 remmina
 roboto
 rofi
+scrcpy
 setuptools
 shellcheck
 shfmt
