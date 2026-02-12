@@ -80,6 +80,7 @@ totoro
 trackpad
 traefik
 trixie
+uhid
 unmute
 virtualisation
 vonarx
