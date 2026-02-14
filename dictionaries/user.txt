@@ -9,6 +9,7 @@ bilibili
 bitnami
 bluray
 buildx
+cachyos
 caldav
 carddav
 chronos
