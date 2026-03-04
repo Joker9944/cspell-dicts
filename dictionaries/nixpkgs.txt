@@ -82,6 +82,7 @@ protontricks
 qadwaitadecorations
 qtwebengine
 r2modman
+regreet
 remarshal
 remmina
 roboto
