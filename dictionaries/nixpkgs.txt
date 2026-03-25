@@ -108,6 +108,7 @@ udiskie
 udisks
 vesktop
 waybar
+wayneko
 wayvnc
 webstorm
 winetricks
