@@ -43,6 +43,7 @@ socat
 steamcmd
 svstat
 talosctl
+vimdiff
 wineboot
 WINEDEBUG
 WINEPREFIX
