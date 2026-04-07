@@ -112,6 +112,7 @@ wayneko
 wayvnc
 webstorm
 winetricks
+wiremix
 wofi
 worksets
 xournalpp
