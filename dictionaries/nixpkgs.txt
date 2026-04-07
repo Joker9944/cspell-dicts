@@ -37,6 +37,7 @@ gobject
 goland
 gotify
 gpclient
+greetd
 hypridle
 hyprland
 hyprlock
