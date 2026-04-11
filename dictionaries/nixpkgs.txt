@@ -61,6 +61,7 @@ libgtop
 libnotify
 librewolf
 libsoup
+libstrangle
 limine
 lnav
 lutris
