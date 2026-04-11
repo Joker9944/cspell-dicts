@@ -67,6 +67,7 @@ lutris
 mangohud
 merkuro
 moreutils
+nixd
 nixfmt
 noto
 nunito
