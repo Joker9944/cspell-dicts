@@ -110,6 +110,7 @@ tzdata
 udiskie
 udisks
 vesktop
+wallust
 waybar
 wayneko
 wayvnc
