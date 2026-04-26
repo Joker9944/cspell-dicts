@@ -48,6 +48,7 @@ ldaps
 mebibits
 muxers
 nextcloud
+nixos
 nonfree
 nosniff
 nvme
