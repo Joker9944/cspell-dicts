@@ -1,5 +1,6 @@
 aerc
 ananicy
+anki
 appimageTools
 ashell
 astal
