@@ -49,5 +49,6 @@ WINEDEBUG
 WINEPREFIX
 wineserver
 wpctl
+xelatex
 xrandr
 zstd
