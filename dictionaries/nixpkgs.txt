@@ -75,6 +75,7 @@ noto
 nunito
 ollama
 opensans
+pandoc
 pathlib
 pciutils
 pinentry

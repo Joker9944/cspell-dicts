@@ -4,6 +4,7 @@ alertmanager
 archiver
 audiobookshelf
 BCORE
+beamer
 bezier
 bilibili
 bitnami
@@ -20,6 +21,7 @@ cooldown
 crossfade
 deviantart
 dualsense
+eisvogel
 elems
 ellipsize
 firstline
