@@ -20,6 +20,7 @@ combinators
 cooldown
 crossfade
 deviantart
+dont
 dualsense
 eisvogel
 elems
@@ -53,12 +54,14 @@ nextcloud
 nixos
 nonfree
 nosniff
+notifd
 nvme
 onlyoffice
 openaudible
 opencontainers
 openjfx
 optimise
+pango
 panini
 pbmn
 pexels
