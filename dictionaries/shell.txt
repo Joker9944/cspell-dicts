@@ -32,12 +32,15 @@ pipefail
 pkill
 playerctl
 poweroff
+PPID
 psql
 QT_QPA_PLATFORMTHEME
 readarray
 renice
 restic
 sbctl
+SHLVL
+shopt
 skopeo
 socat
 steamcmd
