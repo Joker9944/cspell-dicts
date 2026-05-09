@@ -39,6 +39,7 @@ goland
 gotify
 gpclient
 greetd
+grimblast
 hypridle
 hyprland
 hyprlock
