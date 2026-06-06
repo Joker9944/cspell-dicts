@@ -21,6 +21,7 @@ luks
 lvfs
 maildir
 modeset
+mpris
 networkmanager
 noatime
 nodev
