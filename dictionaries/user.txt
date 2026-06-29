@@ -20,6 +20,7 @@ combinators
 cooldown
 crossfade
 deviantart
+direnv
 dont
 dualsense
 eisvogel
