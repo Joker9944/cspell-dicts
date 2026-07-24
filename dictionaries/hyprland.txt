@@ -9,6 +9,7 @@ gapsin
 gapsout
 halign
 hypr
+hyprlang
 hyprpm
 killactive
 layerrule
